@@ -2,10 +2,10 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho",
+      "name": "Ao molho molhado",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
       "price": "19.90",
-      "available": true,
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
@@ -23,6 +23,38 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "http://rocketseat.com.br",
+      "name": "Ao molho",
+      "price": "19.90",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "available": true,
+      "id": 6
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Molho",
+      "price": "12.20",
+      "description": "idosajdiaso jdaoisjd oasijdoasidjasoidjsa ",
+      "available": true,
+      "id": 7
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "asdasd",
+      "price": "20.12",
+      "description": "asdasd asd asd",
+      "available": true,
+      "id": 8
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "asdasdasd",
+      "price": "20.10",
+      "description": "asdas",
+      "available": true,
+      "id": 9
     }
   ]
 }
